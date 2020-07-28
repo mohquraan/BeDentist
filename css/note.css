@@ -1,0 +1,162 @@
+body{
+margin: 0px;
+line-height: 1.2px;
+font-family: "Alegreya Sans", Helvetica, Arial, sans-serif;
+font-size: 20px;
+}
+
+.topnav{
+ background-color: black;
+ height: 240px;
+
+
+}
+
+.top{
+ background-color: #0095e5;
+ padding: 14px 0px; 
+ 
+}
+
+.text{
+ float: right;
+color: #fff;
+font-size: 18px;
+margin: -27px 140px 0px 0px;
+
+
+
+
+}
+
+
+.text a{
+ color: #fff;
+font-weight: bold;
+
+}
+
+.text a:hover{
+ text-decoration: none;
+}
+
+
+
+
+.icon{
+ margin-left: 140px;
+}
+
+.icon i{
+ margin-right: 20px;
+ color: #74b9ed;
+
+
+}
+
+.icon i:hover{
+ color: #fff;
+ cursor: pointer;
+}
+  
+
+  .mid{
+  	background-color: #fff;
+ padding: 60px 0px; 
+  
+
+  }
+
+
+.mid1{
+	float: left;
+	margin-left: 140px;
+	font-size:40px;
+
+}
+
+  .mid a{
+  	text-decoration: none;
+  }
+
+.span1{
+ color: #0095e5;
+}
+
+.span2{
+ color: #616262;
+
+}
+
+
+				
+                         
+
+
+
+.mid2icon{
+	float: right;
+	margin-right:447px;
+	margin-top: -18px;
+	
+}
+
+.mid2icon i {
+	color: #0095e5;
+	padding-left: 208px;
+	padding-right:50px;
+
+	
+}
+
+.mid3{
+clear: both;
+float: right;
+display: inline-block;
+margin-right:290px;
+margin-top: -28px
+
+}
+
+
+.mid3span{
+	color: #616262;
+	padding-left:145px;
+	 font-weight: bold;
+}
+
+
+.mid4{
+clear: both;
+float: right;
+display: inline-block;
+margin-right:191px;
+margin-top: -5px;
+
+
+}
+
+
+.mid4span{
+	
+	color: #949494;
+	font-size: 15px;
+	padding-left:40px;
+
+}
+
+
+.mid4span a{
+	color: #949494;
+}
+
+
+.mid4span a:hover{
+ color: #0095e5;
+ cursor: pointer;
+}
+
+
+
+
+
